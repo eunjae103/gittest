@@ -6,6 +6,7 @@ import Copytwo from './Copytwo';
 function App() {
   return (
     <div className="App">
+     Good bye, world asdfasdfasdf!
      hello, world!
      <Copytwo/>
      <Copyone/>
